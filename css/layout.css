@@ -11,12 +11,14 @@
 
 .col-1 {
   float: left;
-  width: 30%;
+  width: 31%;
+  margin: 2%
 }
 
 .col-2 {
   float: left;
-  width: 64%;
+  width: 66%;
+  margin: 2%
 }
 
 .col-3 {
